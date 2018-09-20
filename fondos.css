@@ -1,0 +1,15 @@
+html {
+background: url(https://wallpaper-house.com/data/out/7/wallpaper2you_152739.jpg) no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+
+.tabla{
+	font-family: Palatino linotype;
+	font-size: 16px;
+	border-collapse: collapse;
+	padding: 15px;
+	vertical-align: top;
+}
